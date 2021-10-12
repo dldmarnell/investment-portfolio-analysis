@@ -1,4 +1,4 @@
-# whale_analysis
+# Investment Portfolio Analysis
 
 Analyzes and visualizes risk, returns, votality, and Sharpe ratios among various algorithmic, hedge, and mutual fund portfolios then compares them against the S&P 500 Index. At the end, the performance of my custom portfolio is evaluated and compared against the other portfolios as well as the S&P 500.
 
